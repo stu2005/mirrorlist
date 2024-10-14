@@ -1,0 +1,8 @@
+https://security.debian.org/debian-security/
+https://ftp.kddilabs.jp/pub/Linux/packages/Debian/debian-security/
+https://ftp.riken.jp/Linux/debian/debian-security/
+https://mirrors.xtom.jp/debian-security/
+https://repo.jing.rocks/debian-security/
+https://mirror.hashy0917.net/debian-security/
+https://mirror-nrt.yuki.net.uk/debian-security/
+https://mirrors.tyo.silicloud.com/debian-security/

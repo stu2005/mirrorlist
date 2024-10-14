@@ -1,0 +1,15 @@
+https://mirror.nju.edu.cn/raspberrypi/
+https://mirrors.163.com/raspberrypi/
+https://mirrors.bfsu.edu.cn/raspberrypi/
+https://mirrors.sjtug.sjtu.edu.cn/raspberrypi/debian/
+https://mirrors.tuna.tsinghua.edu.cn/raspberrypi/
+https://mirrors.ustc.edu.cn/raspberrypi/debian/
+https://mirrors.zju.edu.cn/raspberrypi/
+https://mirrors.aliyun.com/raspberrypi/
+https://mirrors.cloud.tencent.com/raspberrypi/
+https://mirrors.xjtu.edu.cn/raspberrypi/
+https://mirror.nyist.edu.cn/raspberrypi/
+https://mirrors.sustech.edu.cn/raspberrypi/
+https://mirrors.njtech.edu.cn/raspberrypi/
+https://mirrors.sau.edu.cn/raspberrypi/
+https://mirrors.cqupt.edu.cn/raspberrypi/
