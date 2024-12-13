@@ -1,0 +1,16 @@
+https://archive.g4t1.pro/ubuntu/
+https://ftp.tsukuba.wide.ad.jp/ubuntu/
+https://ftp.udx.icscoe.jp/Linux/ubuntu/
+https://repo.jing.rocks/ubuntu/
+https://ftp.jaist.ac.jp/ubuntu/
+https://www.ftp.ne.jp/Linux/packages/ubuntu/archive/
+https://ftp.sakura.ad.jp/ubuntu/
+https://mirror.hashy0917.net/ubuntu/
+https://ubuntu.tokyo.macarne.com/
+https://jp.mirror.coganng.com/ubuntu/
+https://ftp.riken.jp/Linux/ubuntu/
+https://linux.yz.yamagata-u.ac.jp/ubuntu/
+https://mirrors.xtom.jp/ubuntu/
+https://ftp.iij.ad.jp/pub/linux/ubuntu/archive/
+https://mirror-nrt.yuki.net.uk/ubuntu/
+https://mirrors.tyo.silicloud.com/ubuntu/

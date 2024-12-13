@@ -1,0 +1,5 @@
+https://ftp.udx.icscoe.jp/Linux/linuxmint/
+https://repo.jing.rocks/linuxmint/
+https://ftp.jaist.ac.jp/pub/Linux/linuxmint/packages/
+https://ftp.riken.jp/Linux/linuxmint/packages/
+https://jp.mirrors.cicku.me/linuxmint/packages/
