@@ -1,0 +1,3 @@
+https://download.docker.com/linux/ubuntu/
+https://mirrors.xtom.jp/docker-ce/linux/ubuntu/
+https://mirrors.tyo.silicloud.com/docker-ce/linux/ubuntu/
