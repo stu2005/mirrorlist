@@ -1,0 +1,4 @@
+https://ftp.yz.yamagata-u.ac.jp/pub/Linux/MX-Linux-Packages/mx/repo/
+https://ftp.tsukuba.wide.ad.jp/mxlinux/mx/repo/
+https://ftp.riken.jp/Linux/mxlinux/mx/repo/
+https://repo.jing.rocks/mxlinux/mx/repo/
